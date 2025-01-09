@@ -7,7 +7,7 @@ export default function Footer() {
     <footer style={footerStyle}>
       <p>© 2025 AI Tools Navigation | All Rights Reserved</p>
       <p>
-        Built with <a href="https://nextjs.org" style={linkStyle}>Next.js</a>
+        Built with <link><a href="https://nextjs.org" style={linkStyle}>Next.js</a> </link>
       </p>
     </footer>
   );
